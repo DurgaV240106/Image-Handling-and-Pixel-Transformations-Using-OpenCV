@@ -226,6 +226,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/58865cd2-5495-4840-8f2f-53a04e8f2fbc)
 
 5.apollo launch final image
+
 ![image](https://github.com/user-attachments/assets/cc872fd0-9c62-4070-91c3-ff432f9fb7c5)
 
 ## ii) Adjust Image Brightness.
@@ -234,8 +235,10 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/780d9563-e2bb-4d98-8f8c-180dd9be92d1)
 
 ## iii) Modify Image Contrast.
+
 ![image](https://github.com/user-attachments/assets/934b1dac-611f-4f2d-898e-20754ca0b85d)
-iv) Generate Third Image Using Bitwise Operations.
+
+## iv) Generate Third Image Using Bitwise Operations.
 
 1.splitting into b,g,r
 ![image](https://github.com/user-attachments/assets/8f0cad42-1d3a-4d28-b649-3d23809aa8be)
