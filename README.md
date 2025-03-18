@@ -227,7 +227,7 @@ plt.show()
 
 5.apollo launch final image
 
-![image](https://github.com/user-attachments/assets/cc872fd0-9c62-4070-91c3-ff432f9fb7c5)
+![image](https://github.com/user-attachments/assets/1e52b7ca-4be2-40bf-af53-4884e30ad9a9)
 
 ## ii) Adjust Image Brightness.
 
@@ -244,6 +244,7 @@ plt.show()
 ![image](https://github.com/user-attachments/assets/8f0cad42-1d3a-4d28-b649-3d23809aa8be)
 
 2.Merged bgr image
+
 ![image](https://github.com/user-attachments/assets/9af1a299-2915-4461-9e3a-4325edb5c763)
 
 3.splitting into h,s,v components
